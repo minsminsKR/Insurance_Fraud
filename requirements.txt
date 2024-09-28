@@ -1,6 +1,6 @@
 # python.exe -m pip install --upgrade pip
 # pip install --upgrade nbformat
-python_version == 3.11
+# python_version == 3.11
 pandas
 plotly
 matplotlib
