@@ -7,4 +7,5 @@ matplotlib
 seaborn
 nbformat
 jupyter
-##
+scipy
+scikit-learn
