@@ -9,3 +9,4 @@ nbformat
 jupyter
 scipy
 scikit-learn
+interpret
