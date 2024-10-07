@@ -27,8 +27,7 @@ The dataset used in this project is fraud_oracle.csv, which contains records of 
 - Data importation and preprocessing
 데이터 가져오기 및 전처리
 - T-Test, Chi-square
-- Handling imbalanced classes using SMOTENC (Synthetic Minority Over-sampling Technique for Nominal and Continuous features)
-- SMOTENC(명목형 및 연속형 특성을 위한 합성 소수 샘플링 기법)를 사용한 불균형 클래스 처리
+- Over-sampling Technique을 사용한 불균형 클래스(1) 처리
 - Model training using Explainable Boosting Classifier
 - Explainable Boosting Classifier를 사용한 모델 훈련
 - Evaluation metrics: accuracy, precision, recall, and F1-score
